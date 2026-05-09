@@ -9,3 +9,4 @@
    - Added `<Analytics />` after `<App />` in render
 5. ☑️ Test with `npm run dev` (server running at http://localhost:5173/)
 6. ☑️ Complete task
+    7. Execute it accordingly 
